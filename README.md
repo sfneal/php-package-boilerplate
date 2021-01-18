@@ -1,7 +1,8 @@
 # Very short description of the package
 
+[![Packagist PHP support](https://img.shields.io/packagist/php-v/sfneal/php-package-boilerplate)](https://packagist.org/packages/sfneal/php-package-boilerplate)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sfneal/php-package-boilerplate.svg?style=flat-square)](https://packagist.org/packages/sfneal/php-package-boilerplate)
-[![Build Status](https://img.shields.io/travis/sfneal/php-package-boilerplate/master.svg?style=flat-square)](https://travis-ci.org/sfneal/php-package-boilerplate)
+[![Build Status](https://travis-ci.com/sfneal/php-package-boilerplate.svg?branch=master&style=flat-square)](https://travis-ci.com/sfneal/php-package-boilerplate)
 [![Quality Score](https://img.shields.io/scrutinizer/g/sfneal/php-package-boilerplate.svg?style=flat-square)](https://scrutinizer-ci.com/g/sfneal/php-package-boilerplate)
 [![Total Downloads](https://img.shields.io/packagist/dt/sfneal/php-package-boilerplate.svg?style=flat-square)](https://packagist.org/packages/sfneal/php-package-boilerplate)
 
